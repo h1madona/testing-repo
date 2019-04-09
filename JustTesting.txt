@@ -3,4 +3,7 @@ Line Two, edited :)
 Third Line
 Fourth Line
 Fifth Line
+<<<<<<< HEAD
 
+=======
+>>>>>>> Added somethings above the second line
