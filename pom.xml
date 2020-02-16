@@ -30,7 +30,7 @@
 	   <connection>scm:git:git@github.com:h1madona/testing-repo.git</connection>
            <developerConnection>git@github.com:h1madona/testing-repo.git</developerConnection>
 	   <url>whateverurl.com</url>
-	   <version>@{project.version}</version>
+	   <version>${project.version}</version>
   </scm>
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
